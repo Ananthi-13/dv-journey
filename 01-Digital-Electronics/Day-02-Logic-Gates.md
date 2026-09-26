@@ -6,8 +6,6 @@
 
 Understand how digital circuits make logical decisions.
 
----
-
 ## 📚 Topics Covered
 
 - AND
@@ -21,9 +19,7 @@ Understand how digital circuits make logical decisions.
 - De Morgan's Theorem
 - K-Maps
 
----
-
-## 📝 What I Learned
+📝 What I Learned
 
 ### AND Gate
 
@@ -33,45 +29,13 @@ Applications
 
 Boolean Expression
 
----
-
 ### OR Gate
-
-...
-
----
-
 ### NAND Gate
-
-...
-
----
-
 ### XOR Gate
-
-...
-
----
-
 ### Boolean Laws
-
-...
-
----
-
 ### De Morgan's Theorem
-
-...
-
----
-
 ### K-Map
-
 Why we use it
-
-Examples
-
----
 
 ## 💻 Practice
 
@@ -81,22 +45,11 @@ Examples
 
 ✅ K-Map Problems
 
----
-
 ## 💡 Interview Notes
 
 - Universal Gates
 - Difference between XOR and XNOR
 - Why NAND is called a Universal Gate?
-
----
-
-## ❓Doubts
-
-...
-
----
-
 ## 🎯 Tomorrow
 
 MUX
