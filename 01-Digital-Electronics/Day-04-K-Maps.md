@@ -4,3 +4,4 @@
 ~grouping
 # kmap: is a diagram made up of squares each square represents one min terms .
 The complexity of boolean expression is minimized by mapping the terms. 
+I try many examples and practice questions.
