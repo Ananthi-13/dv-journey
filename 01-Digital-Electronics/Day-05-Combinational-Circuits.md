@@ -5,7 +5,7 @@ Today i revise combinational circuits :
 ## decoder
 ## priority encoder 
 ## Multiplexer : (MUX)
->> many to one 
+>> many to one/n
 >> 2^n data inputs and n outputs
 >> acts as data selector
 >> in real life , in sector of cable tv connections mux is used.
