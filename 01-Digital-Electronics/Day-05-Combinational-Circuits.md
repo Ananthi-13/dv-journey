@@ -10,7 +10,7 @@ Today i revise combinational circuits :
 >> acts as data selector
 >> in real life , in sector of cable tv connections mux is used.
 ## Demultiplexer: (DEMUX)
->> one to many
+>> one to many 
 >> n data inputs and 2^n outputs
 >> acts as data distributor
 I practice truth table and implementation circuit for both mux and demux for 4:1 and 1:4 mux and demux , 8:1 and 1:8 mux and demux .
