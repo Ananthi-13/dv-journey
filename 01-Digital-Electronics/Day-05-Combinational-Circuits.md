@@ -1,4 +1,10 @@
 Today i revise combinational circuits : 
+## COMBINATIONAL CIRCUITS : 
+~ it is a digital circuit 
+~ output depends only on current inputs
+~ no memory 
+~ no clock required 
+~ easier to design 
 ## mux
 ## demux
 ## encoder
@@ -29,3 +35,4 @@ I practice truth table and implementation circuit for both mux and demux for 4:1
 >> used in receiver
 >> eg: 7 segmented display
 >> practice 2:4 decoder,truth table and implementation diagram.
+## Comparator 
