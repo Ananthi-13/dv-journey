@@ -45,3 +45,11 @@ Meaning:
 This models a D Flip-Flop.
 
 Notice the use of non-blocking assignment (<=), which is standard for sequential logic.
+first topic as i done with ## latches 
+particularly gated SR latches: 1. NOR BASED  SR LATCHES, 2. NAND BASED SR LATCHES.
+GATED D Latches.
+WHY latches called level sensitive , and flipflops called edge triggered.
+## FLIPFLOPS 
+i learned about edge triggering and their types .
+i learned D FLIP FLOP deeply , because it is used by most of the industry level projects.
+then learned about T,JK,CLOCKED SR FLIP FLOP.
